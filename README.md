@@ -1,2 +1,1 @@
-Replit's 100 days of pytho learning
-DSA
+Udemy Complete Data Structures and Algorithms Course in Python
